@@ -45,7 +45,7 @@ A simple voltage divider (2×10 kΩ) measures the battery.
 
 ## System Architecture
 
-![System block diagram](docs/block_diagram.png) *(optional – add a diagram)*
+![System block diagram](docs/block_diagram.png) <!--*(optional – add a diagram)*-->
 
 ### Decision Logic (Priority Order)
 1. **Raw‑ADC hard override** – if the soil sensor raw value exceeds a threshold → irrigate immediately.
@@ -91,7 +91,7 @@ The logs are in `logs/`.
 - Model switching demonstrated (Lite ↔ Full)  
 - No false triggers, no oscillations  
 
-![Sample log excerpt](docs/log_screenshot.png) *(optional screenshot)*
+![Sample log excerpt](docs/sample_log.png) <!--*(optional screenshot)*-->
 
 ---
 
