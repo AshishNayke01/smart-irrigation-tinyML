@@ -30,8 +30,8 @@
 #include "full_model.h"
 
 // ── WiFi ──────────────────────────────────────────
-const char* WIFI_SSID     = "Airtel_ashi_0978";   // ← CHANGE
-const char* WIFI_PASSWORD = "air34710";            // ← CHANGE
+const char* WIFI_SSID     = "YOUR_SSID";   // ← CHANGE
+const char* WIFI_PASSWORD = "YOUR_PASSWORD";            // ← CHANGE
 WebServer server(80);
 
 // ── Hardware pins ──────────────────────────────────
