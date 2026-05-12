@@ -1,0 +1,22 @@
+[
+  {
+    "name": "lite",
+    "epochs_trained": 80,
+    "acc_soft": 0.887,
+    "acc_hard": 0.8945,
+    "f1_hard": 0.7724,
+    "recall": 0.9794,
+    "fn": 2,
+    "optimal_threshold": 0.6
+  },
+  {
+    "name": "full",
+    "epochs_trained": 80,
+    "acc_soft": 0.9454,
+    "acc_hard": 0.9529,
+    "f1_hard": 0.8858,
+    "recall": 1.0,
+    "fn": 0,
+    "optimal_threshold": 0.7
+  }
+]

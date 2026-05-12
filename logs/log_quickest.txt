@@ -1,0 +1,541 @@
+
+=== AI Irrigation – ESP32-S3 ===
+WiFi.. connected
+192.168.1.3
+[INIT] Battery: 0.000 V
+[MODEL] LITE loaded (arena 848/20480 B)
+[INIT] Active: LITE
+[INIT] Sensor warm-up...
+[INIT] Ready.
+
+[SOIL] raw median ADC = 4095
+--------------------------------
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:34.6C H:43.0% Soil:0.0% (raw ovrd:YES) Bat:0.56V Model:LITE Pred:0.961 (smooth:0.961) Pump:ON
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:34.6C H:43.0% Soil:0.0% (raw ovrd:YES) Bat:0.56V Model:LITE Pred:0.961 (smooth:0.961) Pump:ON
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:34.6C H:42.0% Soil:0.0% (raw ovrd:YES) Bat:0.55V Model:LITE Pred:0.961 (smooth:0.961) Pump:ON
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:34.6C H:42.0% Soil:0.0% (raw ovrd:YES) Bat:0.55V Model:LITE Pred:0.961 (smooth:0.961) Pump:ON
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:34.6C H:42.0% Soil:0.0% (raw ovrd:YES) Bat:0.56V Model:LITE Pred:0.961 (smooth:0.961) Pump:ON
+[SOIL] raw median ADC = 2991
+--------------------------------
+T:34.6C H:42.0% Soil:37.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.578 (smooth:0.655) Pump:ON
+[SOIL] raw median ADC = 2875
+--------------------------------
+T:34.6C H:42.0% Soil:41.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.562) Pump:ON
+[SOIL] raw median ADC = 2823
+--------------------------------
+T:34.6C H:42.0% Soil:42.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.544) Pump:ON
+[SOIL] raw median ADC = 2443
+--------------------------------
+T:34.6C H:42.0% Soil:55.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.520 (smooth:0.524) Pump:ON
+[SOIL] raw median ADC = 2421
+--------------------------------
+T:34.6C H:41.0% Soil:56.0% (raw ovrd:no) Bat:0.54V Model:LITE Pred:0.520 (smooth:0.520) Pump:ON
+[SOIL] raw median ADC = 2381
+--------------------------------
+T:34.6C H:41.0% Soil:57.0% (raw ovrd:no) Bat:0.54V Model:LITE Pred:0.520 (smooth:0.520) Pump:ON
+[SOIL] raw median ADC = 2283
+[RELAY] OFF
+--------------------------------
+T:34.6C H:41.0% Soil:61.0% (raw ovrd:no) Bat:0.54V Model:LITE Pred:0.520 (smooth:0.520) Pump:OFF
+[SOIL] raw median ADC = 1983
+--------------------------------
+T:34.6C H:29.0% Soil:71.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.629) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:71.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.651) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:72.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.655) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:73.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:74.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:76.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.641) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:77.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.653) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:84.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.640) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:82.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.653) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:77.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:69.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.669) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.7C H:28.0% Soil:55.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.691 (smooth:0.687) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.7C H:41.0% Soil:73.0% (raw ovrd:no) Bat:0.56V Model:LITE Pred:0.480 (smooth:0.522) Pump:OFF
+--------------------------------
+T:34.7C H:29.0% Soil:77.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.614) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:73.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.648) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:68.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.667) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:52.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.699) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:48.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.718) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:48.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.722) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:36.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.747) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.691 (smooth:0.703) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:48.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.719) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:46.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.722) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:32.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.781 (smooth:0.769) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.7C H:28.0% Soil:34.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.781 (smooth:0.779) Pump:ON
+--------------------------------
+T:34.7C H:41.0% Soil:52.0% (raw ovrd:no) Bat:0.56V Model:LITE Pred:0.539 (smooth:0.587) Pump:ON
+--------------------------------
+T:34.7C H:42.0% Soil:47.0% (raw ovrd:no) Bat:0.56V Model:LITE Pred:0.559 (smooth:0.564) Pump:ON
+--------------------------------
+T:34.7C H:42.0% Soil:43.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.559 (smooth:0.560) Pump:ON
+--------------------------------
+T:34.7C H:42.0% Soil:45.0% (raw ovrd:no) Bat:0.56V Model:LITE Pred:0.539 (smooth:0.543) Pump:ON
+--------------------------------
+T:34.7C H:42.0% Soil:45.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.540) Pump:ON
+--------------------------------
+T:34.7C H:42.0% Soil:46.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.539) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.7C H:41.0% Soil:62.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.520 (smooth:0.523) Pump:OFF
+--------------------------------
+T:34.7C H:29.0% Soil:62.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.642) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:60.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.691 (smooth:0.682) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:61.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.674) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:71.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.660) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:81.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.641) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:79.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.653) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:81.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.640) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:74.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.653) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:46.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.709) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:45.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.720) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:39.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.738 (smooth:0.735) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.6C H:28.0% Soil:40.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.725) Pump:ON
+--------------------------------
+T:34.6C H:41.0% Soil:51.0% (raw ovrd:no) Bat:0.56V Model:LITE Pred:0.539 (smooth:0.576) Pump:ON
+--------------------------------
+T:34.6C H:42.0% Soil:45.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.547) Pump:ON
+--------------------------------
+T:34.6C H:42.0% Soil:46.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.539 (smooth:0.541) Pump:ON
+--------------------------------
+T:34.6C H:42.0% Soil:55.0% (raw ovrd:no) Bat:0.55V Model:LITE Pred:0.520 (smooth:0.524) Pump:ON
+--------------------------------
+T:34.6C H:41.0% Soil:56.0% (raw ovrd:no) Bat:0.54V Model:LITE Pred:0.520 (smooth:0.520) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.6C H:41.0% Soil:61.0% (raw ovrd:no) Bat:0.54V Model:LITE Pred:0.520 (smooth:0.520) Pump:OFF
+--------------------------------
+T:34.6C H:29.0% Soil:67.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.641) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:65.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.666) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:69.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.671) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:69.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.672) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:72.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.659) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:71.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.657) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:74.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:80.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.641) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:84.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.638) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:76.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.637) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:78.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.652) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.6C H:28.0% Soil:0.0% (raw ovrd:YES) Bat:0.00V Model:LITE Pred:0.969 (smooth:0.905) Pump:ON
+--------------------------------
+T:34.6C H:40.0% Soil:21.0% (raw ovrd:no) Bat:0.51V Model:LITE Pred:0.832 (smooth:0.847) Pump:ON
+--------------------------------
+T:34.7C H:62.0% Soil:29.0% (raw ovrd:no) Bat:0.40V Model:LITE Pred:0.617 (smooth:0.663) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.7C H:62.0% Soil:29.0% (raw ovrd:no) Bat:0.23V Model:LITE Pred:-1.000 (smooth:-1.000) Pump:OFF [DHT NaN]
+--------------------------------
+T:34.7C H:28.0% Soil:31.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.797 (smooth:0.438) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:3.0% (raw ovrd:YES) Bat:0.00V Model:LITE Pred:0.965 (smooth:0.859) Pump:OFF
+--------------------------------
+T:34.6C H:33.0% Soil:8.0% (raw ovrd:YES) Bat:0.00V Model:LITE Pred:0.941 (smooth:0.925) Pump:OFF
+--------------------------------
+T:34.6C H:29.0% Soil:8.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.945 (smooth:0.941) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:6.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.953 (smooth:0.951) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:6.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.953 (smooth:0.953) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:6.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.953 (smooth:0.953) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:6.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.953 (smooth:0.953) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:5.0% (raw ovrd:YES) Bat:5.38V Model:LITE Pred:0.961 (smooth:0.959) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:49.0% (raw ovrd:no) Bat:5.38V Model:LITE Pred:0.723 (smooth:0.770) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:26.0% (raw ovrd:no) Bat:5.38V Model:LITE Pred:0.855 (smooth:0.838) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:26.0% (raw ovrd:no) Bat:5.38V Model:LITE Pred:0.855 (smooth:0.852) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.6C H:28.0% Soil:31.0% (raw ovrd:no) Bat:5.37V Model:LITE Pred:0.797 (smooth:0.808) Pump:ON
+[SWITCH] 3.752V -> FULL
+[MODEL] FULL loaded (arena 976/20480 B)
+--------------------------------
+T:34.6C H:28.0% Soil:36.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.938 (smooth:0.912) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:37.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.938 (smooth:0.932) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:40.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.934 (smooth:0.933) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:40.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.934 (smooth:0.934) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:41.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.938 (smooth:0.937) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:46.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.922 (smooth:0.925) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:46.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.922 (smooth:0.922) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:46.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.922 (smooth:0.922) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:46.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.922 (smooth:0.922) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:49.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.914 (smooth:0.916) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:51.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.922 (smooth:0.921) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:54.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.914 (smooth:0.915) Pump:ON
+--------------------------------
+T:34.6C H:28.0% Soil:55.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.902 (smooth:0.905) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:47.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.934 (smooth:0.928) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:58.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.902 (smooth:0.907) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:59.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.891 (smooth:0.894) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.6C H:27.0% Soil:64.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.879 (smooth:0.882) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:38.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.938 (smooth:0.926) Pump:OFF
+--------------------------------
+T:34.7C H:28.0% Soil:60.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.879 (smooth:0.888) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:72.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.836 (smooth:0.846) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:51.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.922 (smooth:0.907) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:65.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.875) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:64.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.869) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:65.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.879 (smooth:0.877) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:78.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.777 (smooth:0.797) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:81.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.703 (smooth:0.722) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:82.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.652 (smooth:0.666) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:84.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.594 (smooth:0.608) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:84.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.594 (smooth:0.597) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:83.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.594 (smooth:0.594) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:84.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.652 (smooth:0.641) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:78.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.754 (smooth:0.731) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:75.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.797 (smooth:0.784) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:75.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.797 (smooth:0.794) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:82.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.652 (smooth:0.681) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:84.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.594 (smooth:0.611) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:61.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.879 (smooth:0.825) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.6C H:27.0% Soil:59.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.891 (smooth:0.878) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:60.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.902 (smooth:0.897) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:60.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.902 (smooth:0.901) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.6C H:27.0% Soil:63.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.891 (smooth:0.893) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:67.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.872) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:70.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.836 (smooth:0.843) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:69.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.862) Pump:OFF
+--------------------------------
+T:34.6C H:28.0% Soil:69.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.866) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:61.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.879 (smooth:0.876) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:63.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.891 (smooth:0.888) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:35.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.938 (smooth:0.928) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:49.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.922 (smooth:0.923) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:33.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.945 (smooth:0.941) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:33.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.945 (smooth:0.944) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:33.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.945 (smooth:0.945) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.6C H:27.0% Soil:38.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.938 (smooth:0.939) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:59.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.891 (smooth:0.900) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:59.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.891 (smooth:0.893) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:55.0% (raw ovrd:no) Bat:5.62V Model:FULL Pred:0.914 (smooth:0.910) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:52.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.913) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:52.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.914) Pump:ON
+--------------------------------
+T:34.6C H:27.0% Soil:53.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.914) Pump:ON
+--------------------------------
+T:34.7C H:27.0% Soil:55.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.914) Pump:ON
+--------------------------------
+T:34.7C H:27.0% Soil:57.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.914) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.7C H:27.0% Soil:63.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.891 (smooth:0.895) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:66.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.873) Pump:OFF
+--------------------------------
+T:34.6C H:27.0% Soil:67.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.867 (smooth:0.868) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:74.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.852 (smooth:0.855) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:73.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.852 (smooth:0.852) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:75.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.836 (smooth:0.839) Pump:OFF
+--------------------------------
+T:34.7C H:26.0% Soil:81.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.730 (smooth:0.752) Pump:OFF
+--------------------------------
+T:34.7C H:26.0% Soil:83.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.652 (smooth:0.672) Pump:OFF
+--------------------------------
+T:34.7C H:26.0% Soil:82.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.680 (smooth:0.678) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:81.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.703 (smooth:0.698) Pump:OFF
+--------------------------------
+T:34.7C H:27.0% Soil:81.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.703 (smooth:0.702) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:80.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.703 (smooth:0.703) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:80.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.703 (smooth:0.703) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:80.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.703 (smooth:0.703) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:80.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.754 (smooth:0.744) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:79.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.754 (smooth:0.752) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:79.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.754 (smooth:0.753) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:78.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.777 (smooth:0.773) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:78.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.777 (smooth:0.776) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:78.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.777 (smooth:0.777) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:77.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.797 (smooth:0.793) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:74.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.852 (smooth:0.840) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:72.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.836 (smooth:0.837) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:71.0% (raw ovrd:no) Bat:5.37V Model:FULL Pred:0.867 (smooth:0.861) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:66.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.879 (smooth:0.875) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:63.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.891 (smooth:0.888) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.8C H:26.0% Soil:60.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.914 (smooth:0.909) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:56.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.913) Pump:ON
+--------------------------------
+T:34.8C H:27.0% Soil:56.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.902 (smooth:0.904) Pump:ON
+--------------------------------
+T:34.8C H:27.0% Soil:56.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.902 (smooth:0.903) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:56.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.914 (smooth:0.912) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.8C H:26.0% Soil:61.0% (raw ovrd:no) Bat:5.61V Model:FULL Pred:0.891 (smooth:0.895) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:65.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.879 (smooth:0.882) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:70.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.852 (smooth:0.858) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:73.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.867 (smooth:0.865) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:77.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.797 (smooth:0.811) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:76.0% (raw ovrd:no) Bat:5.36V Model:FULL Pred:0.836 (smooth:0.831) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:76.0% (raw ovrd:no) Bat:0.00V Model:FULL Pred:0.836 (smooth:0.835) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:79.0% (raw ovrd:no) Bat:0.00V Model:FULL Pred:0.754 (smooth:0.770) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:83.0% (raw ovrd:no) Bat:0.00V Model:FULL Pred:0.652 (smooth:0.676) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:81.0% (raw ovrd:no) Bat:0.00V Model:FULL Pred:0.703 (smooth:0.698) Pump:OFF
+[SWITCH] 3.203V -> LITE
+[MODEL] LITE loaded (arena 848/20480 B)
+--------------------------------
+T:34.8C H:27.0% Soil:82.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.665) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:84.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.637 (smooth:0.642) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:79.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.653) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:83.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:82.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:82.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.656 (smooth:0.656) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:78.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.672 (smooth:0.669) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:70.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.699) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.705) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.8C H:26.0% Soil:43.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.744) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.8C H:26.0% Soil:61.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.707 (smooth:0.715) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:58.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.721) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:57.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.722) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:57.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.723) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:48.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.748) Pump:OFF
+--------------------------------
+T:34.8C H:27.0% Soil:31.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.809 (smooth:0.796) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:41.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.762) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:39.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.770 (smooth:0.768) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:41.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.757) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:41.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.754) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:41.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.754) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:42.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.754 (smooth:0.754) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:34.8C H:27.0% Soil:32.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.797 (smooth:0.788) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:59.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.736) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:56.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.725) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:54.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.738 (smooth:0.736) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:52.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.738 (smooth:0.738) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:50.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.738 (smooth:0.738) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:50.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.738 (smooth:0.738) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:59.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.726) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:53.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.738 (smooth:0.736) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:59.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.725) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:60.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.723) Pump:ON
+--------------------------------
+T:34.8C H:26.0% Soil:59.0% (raw ovrd:no) Bat:0.13V Model:LITE Pred:0.723 (smooth:0.723) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:34.8C H:26.0% Soil:65.0% (raw ovrd:no) Bat:0.12V Model:LITE Pred:0.707 (smooth:0.710) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:68.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.708) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:67.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.691 (smooth:0.695) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:69.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.705) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:69.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:66.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:62.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:64.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:65.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.8C H:26.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.707) Pump:OFF
+--------------------------------
+T:34.9C H:26.0% Soil:63.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.723 (smooth:0.720) Pump:OFF
+--------------------------------
+T:34.9C H:26.0% Soil:64.0% (raw ovrd:no) Bat:0.00V Model:LITE Pred:0.707 (smooth:0.710) Pump:OFF
+
+
+----
+----
+----
+

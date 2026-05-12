@@ -1,0 +1,12 @@
+{
+  "NORM_TEMP": 45.0,
+  "NORM_HUM": 100.0,
+  "NORM_SOIL": 100.0,
+  "feature_order": [
+    "temp_norm",
+    "hum_norm",
+    "soil_norm"
+  ],
+  "SOIL_HARD_OVERRIDE": 20.0,
+  "DECISION_THRESHOLD": 0.45
+}

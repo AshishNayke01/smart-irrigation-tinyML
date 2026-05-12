@@ -1,0 +1,850 @@
+
+=== AI Irrigation – ESP32-S3 ===
+WiFi.. connected
+192.168.1.5
+[INIT] Battery: 5.173 V
+[MODEL] FULL loaded (arena 976/20480 B)
+[INIT] Active: FULL
+[INIT] Sensor warm-up...
+[INIT] Ready.
+
+[SOIL] raw median ADC = 4095
+--------------------------------
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:31.9C H:41.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:31.9C H:41.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:31.9C H:41.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:31.9C H:41.0% Soil:0.0% Bat:5.18V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:32.0C H:40.0% Soil:0.0% Bat:5.69V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:32.0C H:41.0% Soil:0.0% Bat:5.55V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 3885
+--------------------------------
+T:32.0C H:47.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.0C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 3979
+--------------------------------
+T:32.0C H:40.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.0C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.1C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.1C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.2C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+--------------------------------
+T:32.2C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 4095
+[SENSOR] Soil ADC median 4095 out of range (fault)
+--------------------------------
+T:32.2C H:40.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+[SOIL] raw median ADC = 1129
+--------------------------------
+T:32.2C H:41.0% Soil:100.0% Bat:5.20V Model:FULL Pred:0.066 (smooth:0.246) Pump:OFF
+--------------------------------
+T:32.3C H:41.0% Soil:0.0% Bat:5.19V Model:FULL Pred:0.965 (smooth:0.821) Pump:OFF
+--------------------------------
+T:32.4C H:41.0% Soil:21.0% Bat:5.18V Model:FULL Pred:0.957 (smooth:0.930) Pump:OFF
+--------------------------------
+T:32.4C H:41.0% Soil:27.0% Bat:5.18V Model:FULL Pred:0.938 (smooth:0.936) Pump:OFF
+--------------------------------
+T:32.4C H:41.0% Soil:47.0% Bat:5.18V Model:FULL Pred:0.652 (smooth:0.709) Pump:OFF
+--------------------------------
+T:32.5C H:41.0% Soil:83.0% Bat:5.18V Model:FULL Pred:0.320 (smooth:0.398) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:32.5C H:40.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.851) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:32.5C H:40.0% Soil:0.0% Bat:5.69V Model:FULL Pred:-1.000 (smooth:-1.000) Pump:OFF [DHT NaN]
+--------------------------------
+T:32.5C H:40.0% Soil:0.0% Bat:5.15V Model:FULL Pred:-1.000 (smooth:-1.000) Pump:OFF [DHT NaN]
+--------------------------------
+T:32.7C H:40.0% Soil:51.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.322) Pump:OFF
+--------------------------------
+T:32.7C H:40.0% Soil:59.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.514) Pump:OFF
+--------------------------------
+T:32.6C H:40.0% Soil:60.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.553) Pump:OFF
+--------------------------------
+T:32.7C H:40.0% Soil:59.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.561) Pump:OFF
+--------------------------------
+T:32.7C H:39.0% Soil:60.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.609) Pump:OFF
+--------------------------------
+T:32.7C H:39.0% Soil:60.0% Bat:5.16V Model:FULL Pred:-1.000 (smooth:-1.000) Pump:OFF [DHT NaN]
+--------------------------------
+T:33.0C H:40.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.225) Pump:OFF
+--------------------------------
+T:33.0C H:40.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.470) Pump:OFF
+--------------------------------
+T:32.9C H:39.0% Soil:84.0% Bat:5.17V Model:FULL Pred:0.406 (smooth:0.419) Pump:OFF
+--------------------------------
+T:33.0C H:40.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.109 (smooth:0.171) Pump:OFF
+--------------------------------
+T:33.0C H:40.0% Soil:83.0% Bat:5.17V Model:FULL Pred:0.348 (smooth:0.312) Pump:OFF
+--------------------------------
+T:33.0C H:40.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.379 (smooth:0.366) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:71.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.498) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.550) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:65.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.560) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:65.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.562) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:61.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.609) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:50.0% Bat:5.17V Model:FULL Pred:0.703 (smooth:0.684) Pump:OFF
+--------------------------------
+T:33.1C H:38.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.909) Pump:OFF
+--------------------------------
+T:33.1C H:38.0% Soil:0.0% Bat:5.16V Model:FULL Pred:0.965 (smooth:0.954) Pump:OFF
+--------------------------------
+T:33.2C H:39.0% Soil:0.0% Bat:5.16V Model:FULL Pred:0.965 (smooth:0.963) Pump:OFF
+--------------------------------
+T:33.2C H:39.0% Soil:49.0% Bat:5.17V Model:FULL Pred:0.703 (smooth:0.755) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.923) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.956) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.963) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:0.0% Bat:5.16V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:0.0% Bat:5.17V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:5.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:0.993) Pump:OFF (OVER)
+--------------------------------
+T:33.2C H:37.0% Soil:5.0% Bat:5.17V Model:FULL Pred:-1.000 (smooth:-1.000) Pump:OFF (OVER) [DHT NaN]
+--------------------------------
+T:33.2C H:37.0% Soil:14.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:0.600) Pump:OFF (OVER)
+--------------------------------
+T:33.2C H:37.0% Soil:48.0% Bat:5.17V Model:FULL Pred:0.754 (smooth:0.723) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:51.0% Bat:5.16V Model:FULL Pred:0.754 (smooth:0.748) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:54.0% Bat:5.17V Model:FULL Pred:0.730 (smooth:0.734) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:54.0% Bat:5.17V Model:FULL Pred:0.730 (smooth:0.731) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:33.2C H:37.0% Soil:53.0% Bat:5.17V Model:FULL Pred:0.703 (smooth:0.709) Pump:ON
+--------------------------------
+T:33.2C H:37.0% Soil:50.0% Bat:5.45V Model:FULL Pred:0.754 (smooth:0.745) Pump:ON
+--------------------------------
+T:33.2C H:37.0% Soil:52.0% Bat:5.45V Model:FULL Pred:0.754 (smooth:0.752) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:33.2C H:37.0% Soil:52.0% Bat:5.46V Model:FULL Pred:-1.000 (smooth:-1.000) Pump:OFF [DHT NaN]
+--------------------------------
+T:33.3C H:37.0% Soil:61.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.322) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:62.0% Bat:5.17V Model:FULL Pred:0.680 (smooth:0.608) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:64.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.644) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:67.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.626) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:67.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.622) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.646) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.651) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:80.0% Bat:5.17V Model:FULL Pred:0.500 (smooth:0.530) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:80.0% Bat:5.17V Model:FULL Pred:0.500 (smooth:0.506) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:72.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.598) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:73.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.595) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:73.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.594) Pump:OFF
+--------------------------------
+T:33.1C H:36.0% Soil:72.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.616) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:74.0% Bat:5.17V Model:FULL Pred:0.562 (smooth:0.573) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:73.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.540) Pump:OFF
+--------------------------------
+T:33.2C H:36.0% Soil:75.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.533) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:76.0% Bat:5.17V Model:FULL Pred:0.531 (smooth:0.532) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.581) Pump:OFF
+--------------------------------
+T:33.2C H:37.0% Soil:68.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.591) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:69.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.593) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:69.0% Bat:5.17V Model:FULL Pred:0.594 (smooth:0.594) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:65.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.641) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:66.0% Bat:5.17V Model:FULL Pred:0.621 (smooth:0.625) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:61.0% Bat:5.17V Model:FULL Pred:0.652 (smooth:0.647) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:60.0% Bat:5.17V Model:FULL Pred:0.680 (smooth:0.673) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:58.0% Bat:5.17V Model:FULL Pred:0.680 (smooth:0.678) Pump:OFF
+--------------------------------
+T:33.1C H:37.0% Soil:29.0% Bat:5.17V Model:FULL Pred:0.922 (smooth:0.873) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:32.0% Bat:5.17V Model:FULL Pred:0.891 (smooth:0.887) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:39.0% Bat:5.17V Model:FULL Pred:0.797 (smooth:0.815) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:38.0% Bat:5.17V Model:FULL Pred:0.797 (smooth:0.800) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:40.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.782) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:40.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.778) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:39.0% Bat:5.17V Model:FULL Pred:0.797 (smooth:0.793) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:42.0% Bat:5.17V Model:FULL Pred:0.754 (smooth:0.762) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:42.0% Bat:5.17V Model:FULL Pred:0.754 (smooth:0.755) Pump:OFF
+--------------------------------
+T:33.0C H:38.0% Soil:41.0% Bat:5.16V Model:FULL Pred:0.797 (smooth:0.789) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:33.0C H:38.0% Soil:33.0% Bat:5.16V Model:FULL Pred:0.879 (smooth:0.861) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:44.0% Bat:5.46V Model:FULL Pred:0.777 (smooth:0.794) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:48.0% Bat:5.46V Model:FULL Pred:0.730 (smooth:0.743) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:62.0% Bat:5.45V Model:FULL Pred:0.621 (smooth:0.646) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:62.0% Bat:5.45V Model:FULL Pred:0.621 (smooth:0.626) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:60.0% Bat:5.45V Model:FULL Pred:0.652 (smooth:0.647) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:73.0% Bat:5.45V Model:FULL Pred:0.500 (smooth:0.529) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:75.0% Bat:5.45V Model:FULL Pred:0.500 (smooth:0.506) Pump:ON
+--------------------------------
+T:33.0C H:38.0% Soil:71.0% Bat:5.45V Model:FULL Pred:0.531 (smooth:0.526) Pump:ON
+--------------------------------
+T:32.9C H:38.0% Soil:70.0% Bat:5.45V Model:FULL Pred:0.531 (smooth:0.530) Pump:ON
+--------------------------------
+T:33.0C H:39.0% Soil:73.0% Bat:5.45V Model:FULL Pred:0.500 (smooth:0.506) Pump:ON
+--------------------------------
+T:33.0C H:39.0% Soil:76.0% Bat:5.45V Model:FULL Pred:0.469 (smooth:0.476) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:33.0C H:39.0% Soil:100.0% Bat:5.45V Model:FULL Pred:0.109 (smooth:0.183) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.109 (smooth:0.124) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:95.0% Bat:5.17V Model:FULL Pred:0.148 (smooth:0.144) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:94.0% Bat:5.17V Model:FULL Pred:0.203 (smooth:0.191) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:93.0% Bat:5.17V Model:FULL Pred:0.223 (smooth:0.216) Pump:OFF
+--------------------------------
+T:33.0C H:39.0% Soil:92.0% Bat:5.17V Model:FULL Pred:0.246 (smooth:0.240) Pump:OFF
+--------------------------------
+T:33.1C H:39.0% Soil:94.0% Bat:5.17V Model:FULL Pred:0.203 (smooth:0.211) Pump:OFF
+--------------------------------
+T:33.1C H:38.0% Soil:95.0% Bat:5.18V Model:FULL Pred:0.184 (smooth:0.189) Pump:OFF
+--------------------------------
+T:33.1C H:39.0% Soil:89.0% Bat:5.17V Model:FULL Pred:0.320 (smooth:0.294) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:79.0% Bat:5.17V Model:FULL Pred:0.469 (smooth:0.434) Pump:OFF
+--------------------------------
+T:33.2C H:39.0% Soil:48.0% Bat:5.17V Model:FULL Pred:0.730 (smooth:0.671) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:40.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.756) Pump:OFF
+--------------------------------
+T:33.2C H:39.0% Soil:40.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.773) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:40.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.776) Pump:OFF
+--------------------------------
+T:33.2C H:38.0% Soil:39.0% Bat:5.17V Model:FULL Pred:0.797 (smooth:0.793) Pump:OFF
+--------------------------------
+T:33.3C H:39.0% Soil:38.0% Bat:5.16V Model:FULL Pred:0.797 (smooth:0.796) Pump:OFF
+--------------------------------
+T:33.2C H:39.0% Soil:39.0% Bat:5.17V Model:FULL Pred:0.777 (smooth:0.781) Pump:OFF
+--------------------------------
+T:33.3C H:39.0% Soil:38.0% Bat:5.17V Model:FULL Pred:0.797 (smooth:0.794) Pump:OFF
+--------------------------------
+T:33.3C H:38.0% Soil:37.0% Bat:5.17V Model:FULL Pred:0.816 (smooth:0.812) Pump:OFF
+--------------------------------
+T:33.3C H:38.0% Soil:36.0% Bat:5.16V Model:FULL Pred:0.836 (smooth:0.831) Pump:OFF
+--------------------------------
+T:33.3C H:39.0% Soil:35.0% Bat:5.17V Model:FULL Pred:0.852 (smooth:0.847) Pump:OFF
+--------------------------------
+T:33.4C H:40.0% Soil:33.0% Bat:5.16V Model:FULL Pred:0.879 (smooth:0.873) Pump:OFF
+--------------------------------
+T:33.4C H:40.0% Soil:32.0% Bat:5.16V Model:FULL Pred:0.891 (smooth:0.887) Pump:OFF
+--------------------------------
+T:33.4C H:40.0% Soil:31.0% Bat:5.17V Model:FULL Pred:0.902 (smooth:0.899) Pump:OFF
+--------------------------------
+T:33.4C H:40.0% Soil:32.0% Bat:5.17V Model:FULL Pred:0.891 (smooth:0.892) Pump:OFF
+--------------------------------
+T:33.5C H:40.0% Soil:28.0% Bat:5.16V Model:FULL Pred:0.934 (smooth:0.925) Pump:OFF
+--------------------------------
+T:33.5C H:40.0% Soil:29.0% Bat:5.16V Model:FULL Pred:0.914 (smooth:0.916) Pump:OFF
+--------------------------------
+T:33.5C H:39.0% Soil:23.0% Bat:5.16V Model:FULL Pred:0.953 (smooth:0.946) Pump:OFF
+--------------------------------
+T:33.5C H:39.0% Soil:19.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.989) Pump:OFF (OVER)
+--------------------------------
+T:33.5C H:40.0% Soil:19.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:0.998) Pump:OFF (OVER)
+--------------------------------
+T:33.5C H:39.0% Soil:18.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:33.5C H:40.0% Soil:15.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:33.5C H:39.0% Soil:13.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:33.4C H:39.0% Soil:11.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:33.5C H:40.0% Soil:9.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:33.4C H:39.0% Soil:7.0% Bat:5.17V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+[RELAY] ON
+--------------------------------
+T:33.4C H:39.0% Soil:5.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+--------------------------------
+T:33.3C H:39.0% Soil:0.0% Bat:5.45V Model:FULL Pred:0.965 (smooth:0.972) Pump:ON
+--------------------------------
+T:33.4C H:39.0% Soil:0.0% Bat:5.45V Model:FULL Pred:0.965 (smooth:0.966) Pump:ON
+--------------------------------
+T:33.3C H:37.0% Soil:0.0% Bat:5.45V Model:FULL Pred:0.965 (smooth:0.965) Pump:ON
+--------------------------------
+T:33.3C H:37.0% Soil:35.0% Bat:5.45V Model:FULL Pred:0.852 (smooth:0.874) Pump:ON
+--------------------------------
+T:33.2C H:37.0% Soil:66.0% Bat:5.45V Model:FULL Pred:0.621 (smooth:0.672) Pump:ON
+--------------------------------
+T:33.2C H:37.0% Soil:80.0% Bat:5.45V Model:FULL Pred:0.500 (smooth:0.534) Pump:ON
+--------------------------------
+T:33.2C H:37.0% Soil:77.0% Bat:5.45V Model:FULL Pred:0.531 (smooth:0.532) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:33.1C H:37.0% Soil:100.0% Bat:5.45V Model:FULL Pred:0.121 (smooth:0.203) Pump:OFF
+--------------------------------
+T:33.0C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.119) Pump:OFF
+--------------------------------
+T:33.0C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.102) Pump:OFF
+--------------------------------
+T:32.9C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.099) Pump:OFF
+--------------------------------
+T:32.9C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.098) Pump:OFF
+--------------------------------
+T:32.8C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.098) Pump:OFF
+--------------------------------
+T:32.8C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.098) Pump:OFF
+--------------------------------
+T:32.8C H:37.0% Soil:99.0% Bat:5.17V Model:FULL Pred:0.121 (smooth:0.116) Pump:OFF
+--------------------------------
+T:32.7C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.101) Pump:OFF
+--------------------------------
+T:32.7C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.098) Pump:OFF
+--------------------------------
+T:32.7C H:37.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.098 (smooth:0.098) Pump:OFF
+--------------------------------
+T:32.7C H:38.0% Soil:88.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.257) Pump:OFF
+--------------------------------
+T:32.7C H:38.0% Soil:61.0% Bat:5.16V Model:FULL Pred:0.594 (smooth:0.526) Pump:OFF
+--------------------------------
+T:32.6C H:38.0% Soil:46.0% Bat:5.16V Model:FULL Pred:0.754 (smooth:0.708) Pump:OFF
+--------------------------------
+T:32.6C H:38.0% Soil:45.0% Bat:5.17V Model:FULL Pred:0.730 (smooth:0.726) Pump:OFF
+--------------------------------
+T:32.5C H:38.0% Soil:23.0% Bat:5.16V Model:FULL Pred:0.953 (smooth:0.908) Pump:OFF
+--------------------------------
+T:32.5C H:38.0% Soil:22.0% Bat:5.17V Model:FULL Pred:0.957 (smooth:0.947) Pump:OFF
+--------------------------------
+T:32.5C H:38.0% Soil:22.0% Bat:5.17V Model:FULL Pred:0.957 (smooth:0.955) Pump:OFF
+--------------------------------
+T:32.5C H:38.0% Soil:23.0% Bat:5.16V Model:FULL Pred:0.953 (smooth:0.954) Pump:OFF
+--------------------------------
+T:32.5C H:38.0% Soil:24.0% Bat:5.16V Model:FULL Pred:0.953 (smooth:0.953) Pump:OFF
+--------------------------------
+T:32.4C H:38.0% Soil:22.0% Bat:5.17V Model:FULL Pred:0.957 (smooth:0.956) Pump:OFF
+--------------------------------
+T:32.4C H:38.0% Soil:22.0% Bat:5.16V Model:FULL Pred:0.957 (smooth:0.957) Pump:OFF
+--------------------------------
+T:32.4C H:38.0% Soil:23.0% Bat:5.17V Model:FULL Pred:0.953 (smooth:0.954) Pump:OFF
+--------------------------------
+T:32.4C H:39.0% Soil:22.0% Bat:5.16V Model:FULL Pred:0.957 (smooth:0.956) Pump:OFF
+--------------------------------
+T:32.3C H:39.0% Soil:20.0% Bat:5.17V Model:FULL Pred:0.957 (smooth:0.957) Pump:OFF
+--------------------------------
+T:32.3C H:39.0% Soil:18.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.991) Pump:OFF (OVER)
+--------------------------------
+T:32.3C H:39.0% Soil:16.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.998) Pump:OFF (OVER)
+--------------------------------
+T:32.3C H:39.0% Soil:28.0% Bat:5.16V Model:FULL Pred:0.934 (smooth:0.947) Pump:OFF
+--------------------------------
+T:32.3C H:39.0% Soil:26.0% Bat:5.17V Model:FULL Pred:0.945 (smooth:0.946) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:27.0% Bat:5.16V Model:FULL Pred:0.938 (smooth:0.939) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:27.0% Bat:5.16V Model:FULL Pred:0.938 (smooth:0.938) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:26.0% Bat:5.16V Model:FULL Pred:0.945 (smooth:0.944) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:26.0% Bat:5.17V Model:FULL Pred:0.945 (smooth:0.945) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:26.0% Bat:5.16V Model:FULL Pred:0.945 (smooth:0.945) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:25.0% Bat:5.16V Model:FULL Pred:0.945 (smooth:0.945) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:24.0% Bat:5.16V Model:FULL Pred:0.945 (smooth:0.945) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:32.2C H:39.0% Soil:23.0% Bat:5.17V Model:FULL Pred:0.953 (smooth:0.952) Pump:ON
+--------------------------------
+T:32.2C H:39.0% Soil:20.0% Bat:5.45V Model:FULL Pred:0.957 (smooth:0.956) Pump:ON
+--------------------------------
+T:32.2C H:39.0% Soil:20.0% Bat:5.45V Model:FULL Pred:0.957 (smooth:0.957) Pump:ON
+--------------------------------
+T:32.2C H:39.0% Soil:19.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:0.991) Pump:ON (OVER)
+--------------------------------
+T:32.2C H:39.0% Soil:18.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:0.998) Pump:ON (OVER)
+--------------------------------
+T:32.2C H:39.0% Soil:18.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+--------------------------------
+T:32.2C H:39.0% Soil:17.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+--------------------------------
+T:32.2C H:39.0% Soil:16.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+--------------------------------
+T:32.2C H:39.0% Soil:8.0% Bat:5.45V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+[RELAY] OFF
+--------------------------------
+T:32.2C H:39.0% Soil:100.0% Bat:5.45V Model:FULL Pred:0.078 (smooth:0.262) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:100.0% Bat:5.17V Model:FULL Pred:0.078 (smooth:0.115) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:76.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:76.0% Bat:5.17V Model:FULL Pred:0.406 (smooth:0.395) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:75.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.429) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:76.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.411) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:76.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.407) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:76.0% Bat:5.17V Model:FULL Pred:0.406 (smooth:0.406) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:77.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.431) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:77.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.436) Pump:OFF
+--------------------------------
+T:32.2C H:39.0% Soil:77.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.437) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:78.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.412) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:78.0% Bat:5.17V Model:FULL Pred:0.406 (smooth:0.407) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:79.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.360) Pump:OFF
+--------------------------------
+T:32.1C H:40.0% Soil:79.0% Bat:5.15V Model:FULL Pred:0.348 (smooth:0.350) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:79.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:79.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.395) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.357) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.350) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.395) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.406 (smooth:0.404) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.359) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.348 (smooth:0.350) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.320 (smooth:0.326) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.343) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.347) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.347) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.348) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.326) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.343) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.325) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.321) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.17V Model:FULL Pred:0.297 (smooth:0.302) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.317) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.302) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:85.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.298) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.316) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.319) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.301) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.298) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:85.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.297) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.316) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.319) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.301) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.338) Pump:OFF
+--------------------------------
+T:32.2C H:40.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.348 (smooth:0.346) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.325) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.321) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.302) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.317) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.320) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.302) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.298) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:32.2C H:41.0% Soil:20.0% Bat:5.16V Model:FULL Pred:0.957 (smooth:0.825) Pump:ON
+--------------------------------
+T:32.1C H:41.0% Soil:84.0% Bat:5.45V Model:FULL Pred:0.297 (smooth:0.403) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:32.1C H:41.0% Soil:82.0% Bat:5.45V Model:FULL Pred:0.320 (smooth:0.337) Pump:OFF
+--------------------------------
+T:32.2C H:41.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.324) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.321) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.302) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.276) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.271) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:80.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.310) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.300) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.276) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.293) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:83.0% Bat:5.15V Model:FULL Pred:0.270 (smooth:0.274) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.291) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.296) Pump:OFF
+--------------------------------
+T:32.0C H:42.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.297 (smooth:0.297) Pump:OFF
+--------------------------------
+T:32.1C H:42.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.275) Pump:OFF
+--------------------------------
+T:32.0C H:42.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.270 (smooth:0.271) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.17V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.15V Model:FULL Pred:0.246 (smooth:0.251) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.266) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.269) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.269) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.15V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.270) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.251) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.266) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.269) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.251) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.247) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.246) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.265) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:81.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.269) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.251) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.270 (smooth:0.266) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.250) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.247) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:82.0% Bat:5.15V Model:FULL Pred:0.270 (smooth:0.265) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.250) Pump:OFF
+--------------------------------
+T:32.0C H:43.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.247) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.223 (smooth:0.227) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:83.0% Bat:5.15V Model:FULL Pred:0.246 (smooth:0.242) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.245) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:82.0% Bat:5.15V Model:FULL Pred:0.246 (smooth:0.246) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:82.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.246) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:84.0% Bat:5.16V Model:FULL Pred:0.223 (smooth:0.227) Pump:OFF
+--------------------------------
+T:32.0C H:44.0% Soil:83.0% Bat:5.15V Model:FULL Pred:0.246 (smooth:0.242) Pump:OFF
+--------------------------------
+T:32.0C H:45.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.203 (smooth:0.211) Pump:OFF
+--------------------------------
+T:32.0C H:45.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.203 (smooth:0.205) Pump:OFF
+--------------------------------
+T:32.0C H:45.0% Soil:83.0% Bat:5.15V Model:FULL Pred:0.203 (smooth:0.203) Pump:OFF
+--------------------------------
+T:32.0C H:45.0% Soil:83.0% Bat:5.16V Model:FULL Pred:0.203 (smooth:0.203) Pump:OFF
+[RELAY] ON
+--------------------------------
+T:31.9C H:45.0% Soil:19.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.841) Pump:ON (OVER)
+--------------------------------
+T:31.9C H:45.0% Soil:23.0% Bat:5.45V Model:FULL Pred:0.953 (smooth:0.931) Pump:ON
+--------------------------------
+T:31.9C H:45.0% Soil:54.0% Bat:5.45V Model:FULL Pred:0.438 (smooth:0.536) Pump:ON
+--------------------------------
+T:31.9C H:45.0% Soil:64.0% Bat:5.45V Model:FULL Pred:0.348 (smooth:0.385) Pump:ON
+--------------------------------
+T:31.9C H:46.0% Soil:63.0% Bat:5.45V Model:FULL Pred:0.348 (smooth:0.355) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:31.9C H:46.0% Soil:63.0% Bat:5.44V Model:FULL Pred:0.348 (smooth:0.349) Pump:OFF
+--------------------------------
+T:32.0C H:46.0% Soil:75.0% Bat:5.16V Model:FULL Pred:0.246 (smooth:0.267) Pump:OFF
+--------------------------------
+T:31.9C H:46.0% Soil:70.0% Bat:5.15V Model:FULL Pred:0.270 (smooth:0.269) Pump:OFF
+--------------------------------
+T:31.9C H:47.0% Soil:71.0% Bat:5.15V Model:FULL Pred:0.246 (smooth:0.251) Pump:OFF
+--------------------------------
+T:31.9C H:47.0% Soil:55.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.353) Pump:OFF
+--------------------------------
+T:31.9C H:47.0% Soil:55.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.374) Pump:OFF
+--------------------------------
+T:31.9C H:47.0% Soil:36.0% Bat:5.15V Model:FULL Pred:0.836 (smooth:0.744) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:49.0% Bat:5.15V Model:FULL Pred:0.438 (smooth:0.499) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:60.0% Bat:5.16V Model:FULL Pred:0.320 (smooth:0.356) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:51.0% Bat:5.16V Model:FULL Pred:0.379 (smooth:0.374) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:48.0% Bat:5.15V Model:FULL Pred:0.500 (smooth:0.475) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:46.0% Bat:5.15V Model:FULL Pred:0.562 (smooth:0.545) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:51.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.412) Pump:OFF
+--------------------------------
+T:31.8C H:47.0% Soil:53.0% Bat:5.15V Model:FULL Pred:0.406 (smooth:0.407) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:53.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.385) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:49.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.427) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:51.0% Bat:5.16V Model:FULL Pred:0.379 (smooth:0.389) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:54.0% Bat:5.16V Model:FULL Pred:0.379 (smooth:0.381) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:54.0% Bat:5.16V Model:FULL Pred:0.379 (smooth:0.379) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:48.0% Bat:5.16V Model:FULL Pred:0.500 (smooth:0.476) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:52.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.398) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:53.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.383) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:36.0% Bat:5.15V Model:FULL Pred:0.836 (smooth:0.745) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:24.0% Bat:5.15V Model:FULL Pred:0.953 (smooth:0.912) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:18.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.982) Pump:OFF (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:18.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.996) Pump:OFF (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:15.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.999) Pump:OFF (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:44.0% Bat:5.15V Model:FULL Pred:0.621 (smooth:0.697) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:25.0% Bat:5.16V Model:FULL Pred:0.945 (smooth:0.896) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:16.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.979) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:48.0% Soil:12.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.996) Pump:OFF (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:5.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:0.999) Pump:OFF (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:4.0% Bat:5.16V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:48.0% Soil:6.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:48.0% Soil:4.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:48.0% Soil:6.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+[RELAY] ON
+--------------------------------
+T:31.9C H:48.0% Soil:5.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:ON (OVER)
+--------------------------------
+T:31.8C H:48.0% Soil:63.0% Bat:5.45V Model:FULL Pred:0.270 (smooth:0.416) Pump:ON
+[RELAY] OFF
+--------------------------------
+T:31.8C H:48.0% Soil:76.0% Bat:5.45V Model:FULL Pred:0.184 (smooth:0.230) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:76.0% Bat:5.16V Model:FULL Pred:0.184 (smooth:0.193) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:53.0% Bat:5.16V Model:FULL Pred:0.379 (smooth:0.342) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:50.0% Bat:5.16V Model:FULL Pred:0.438 (smooth:0.418) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:48.0% Bat:5.16V Model:FULL Pred:0.469 (smooth:0.459) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:48.0% Bat:5.15V Model:FULL Pred:0.469 (smooth:0.467) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:45.0% Bat:5.15V Model:FULL Pred:0.562 (smooth:0.543) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:48.0% Bat:5.15V Model:FULL Pred:0.469 (smooth:0.484) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:48.0% Bat:5.15V Model:FULL Pred:0.500 (smooth:0.497) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:47.0% Bat:5.16V Model:FULL Pred:0.500 (smooth:0.499) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:51.0% Bat:5.15V Model:FULL Pred:0.379 (smooth:0.403) Pump:OFF
+--------------------------------
+T:31.8C H:48.0% Soil:48.0% Bat:5.15V Model:FULL Pred:0.500 (smooth:0.481) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:39.0% Bat:5.15V Model:FULL Pred:0.777 (smooth:0.718) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:28.0% Bat:5.15V Model:FULL Pred:0.934 (smooth:0.890) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:33.0% Bat:5.15V Model:FULL Pred:0.867 (smooth:0.872) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:29.0% Bat:5.16V Model:FULL Pred:0.922 (smooth:0.912) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:29.0% Bat:5.15V Model:FULL Pred:0.914 (smooth:0.914) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:21.0% Bat:5.15V Model:FULL Pred:0.957 (smooth:0.948) Pump:OFF
+--------------------------------
+T:31.8C H:49.0% Soil:20.0% Bat:5.15V Model:FULL Pred:0.957 (smooth:0.955) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:23.0% Bat:5.15V Model:FULL Pred:0.953 (smooth:0.954) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:15.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.991) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:48.0% Soil:23.0% Bat:5.15V Model:FULL Pred:0.953 (smooth:0.961) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:8.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.992) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:33.0% Bat:5.16V Model:FULL Pred:0.879 (smooth:0.902) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:15.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.980) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:24.0% Bat:5.15V Model:FULL Pred:0.945 (smooth:0.952) Pump:OFF
+--------------------------------
+T:31.9C H:48.0% Soil:15.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.990) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:9.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:0.998) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:13.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:4.0% Bat:5.15V Model:FULL Pred:1.000 (smooth:1.000) Pump:OFF (OVER)
+--------------------------------
+T:31.9C H:49.0% Soil:0.0% Bat:5.16V Model:FULL Pred:0.965 (smooth:0.972) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:0.0% Bat:5.15V Model:FULL Pred:0.965 (smooth:0.966) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:0.0% Bat:5.15V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+--------------------------------
+T:31.9C H:49.0% Soil:0.0% Bat:5.15V Model:FULL Pred:0.965 (smooth:0.965) Pump:OFF
+
+---
+---
+---
+

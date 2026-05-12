@@ -1,0 +1,28 @@
+[
+  {
+    "name": "lite",
+    "tflite_path": "models/tflite/lite_int8.tflite",
+    "size_bytes": 2488,
+    "size_kb": 2.43,
+    "size_ok": true,
+    "acc_soft_labels": 0.8889,
+    "acc_hard_rules": 0.8964,
+    "f1_hard_rules": 0.7755,
+    "recall": 0.9794,
+    "false_negatives": 2,
+    "acc_gate_passed": true
+  },
+  {
+    "name": "full",
+    "tflite_path": "models/tflite/full_int8.tflite",
+    "size_bytes": 3216,
+    "size_kb": 3.141,
+    "size_ok": true,
+    "acc_soft_labels": 0.9473,
+    "acc_hard_rules": 0.9548,
+    "f1_hard_rules": 0.8899,
+    "recall": 1.0,
+    "false_negatives": 0,
+    "acc_gate_passed": true
+  }
+]
