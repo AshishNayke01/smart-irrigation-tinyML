@@ -99,4 +99,4 @@ The logs are in `logs/`.
 
 **1. Clone the repository**  
 ```bash
-git clone https://github.com/your-username/smart-irrigation-tinyML.git
+git clone https://github.com/AshishNayke01/smart-irrigation-tinyML.git
